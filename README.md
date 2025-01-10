@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20Everyone"
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello%20Everyone"
 </p>
  <h2 align="center">💬&nbsp; Let's connect  🔗&nbsp; and explore thoughts 🤖</h2>
    <p align="center">
