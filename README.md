@@ -63,6 +63,7 @@ hobbies:
             <img height="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
             <img height="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
             <img height="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
-
-
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karlex1&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karlex1&layout=donut)](https://github.com/karlex1/github-readme-stats)
