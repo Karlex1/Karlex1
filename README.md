@@ -35,7 +35,8 @@ currently_learning:
   - "Java and Android Development"  
 
 2025_Goals:  
-  - "Create 5 real-world projects to establish a solid foundation in Data Science and DSA"  
+  - "Create 5 real-world projects to establish a solid foundation in Data Science
+and DSA"  
 
 hobbies:  
   - "Cinema"  
