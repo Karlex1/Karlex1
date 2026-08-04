@@ -18,7 +18,7 @@
 ```yaml
 name: Sanchit  
 located_in: Varanasi, Uttar Pradesh, India  
-current_status: Student (till May 2026)  
+current_status: Fresher (FullStack Developer)
 
 education:  
   - "Self-Taught Aspiring Data Scientist"  
@@ -29,14 +29,11 @@ interested_in:
   - "Web Development (MERN)"  
   - "Data Science"  
   - "Android Development (Flutter)"  
-  - "Prompt Engineering"  
+  - "Prompt Engineering"
+  - "RAG"
 
 currently_learning:  
-  - "Java and Android Development"  
-
-2025_Goals:  
-  - "Create 5 real-world projects to establish a solid foundation in Data Science
-and DSA"  
+  - "Agentic AI"   
 
 hobbies:  
   - "Cinema"  
