@@ -3,10 +3,10 @@
 </p>
  <h2 align="center">💬&nbsp; Let's connect  🔗&nbsp; and explore thoughts 🤖</h2>
    <p align="center">
-<a href="https://www.instagram.com/thepiyushmalhotra/">
+<a href="https://www.instagram.com/developer_karlex/">
   <img height="55" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>&nbsp;&nbsp;
-<a href="https://www.x.com/sanchit_coderr/">
+<a href="https://www.x.com/sanchit_pan/">
   <img height="55" src="https://cdn2.iconfinder.com/data/icons/threads-by-instagram/24/x-logo-twitter-new-brand-contained-64.png"/>
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sanchit-312928214/">
