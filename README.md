@@ -17,7 +17,7 @@
 
 ```yaml
 name: Sanchit  
-located_in: Varanasi, Uttar Pradesh, India  
+located_in: Noida, Uttar Pradesh, India  
 current_status: Fresher (FullStack Developer)
 
 education:  
